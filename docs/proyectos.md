@@ -1,5 +1,0 @@
-layout: page
-title: "Proyectos"
-permalink: /about/proyectos/
-
-*Lorem ipsum* dolor sit amet, consectetur adipiscing elit. Vivamus sed enim eu lectus fermentum aliquet. Praesent vitae congue urna. Nullam malesuada feugiat urna eget tristique. Donec ornare vestibulum purus vel lacinia. Quisque aliquet hendrerit nisl, sed finibus elit pulvinar at. Phasellus et semper nulla. Proin in felis quis ante molestie convallis dictum non odio. Morbi pulvinar, magna id tincidunt commodo, ipsum orci fringilla neque, vel tincidunt risus est sed nisl. Aenean rutrum nisl ut rhoncus elementum. Nullam bibendum dolor at risus pellentesque ornare in in magna. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus aliquet, velit non feugiat suscipit, neque felis dictum nibh, id pellentesque nibh augue non augue. Donec eleifend faucibus felis vel accumsan. Praesent eget sollicitudin lacus.
