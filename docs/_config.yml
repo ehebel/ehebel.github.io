@@ -102,8 +102,10 @@ content:
   - title: Projects under current supervision
     layout: text
     content: | # this will include new lines to allow paragraphs
-      2022			Region wide Adverse Events Surveillance System – Clinical Quality Department
+      2022&nbsp;&nbsp;&nbsp;&nbsp;Region wide Adverse Events Surveillance System – Clinical Quality Department
+
       2021			Integrated Oncology Information System – Regional Cancer Surveillance Group
+
       2020 – Present		Deployment & maintenance of HL7 FHIR Clinical Data Repository (Roche Diagnostics)
 
   - title: Skills
