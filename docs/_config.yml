@@ -89,6 +89,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        border: weak
         title: Universidad de La Frontera
         sub_title: Temuco, Chile
         caption: 2001 - 2007
@@ -99,6 +100,7 @@ content:
 
 
       - layout: left
+        border: weak
         title: Universidad de La Frontera
         sub_title: Temuco, Chile
         caption: 2001 - 2005
@@ -108,6 +110,7 @@ content:
         description: | # this will include new lines to allow paragraphs
 
       - layout: left
+        border: weak
         title: Harvard University
         sub_title: Boston, MA
         caption: 2010 - 2012
@@ -117,6 +120,7 @@ content:
         description: | # this will include new lines to allow paragraphs
 
       - layout: left
+        border: weak
         title: Universidad del Desarrollo
         sub_title: Santiago, Chile
         caption: 2014 - 2017
