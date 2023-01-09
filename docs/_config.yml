@@ -75,8 +75,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Araucanía Sur Health Service
-        link: araucaniasur.cl
+        title: Araucanía Sur Health Service
+        link: www.araucaniasur.cl
         # link_text: boringcompany.com
         sub_title: Digital Health Department Chief
         caption: July 2020 - Present
@@ -89,9 +89,39 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Universidad de La Frontera, Temuco, Chile
+        caption: 2001 - 2007
+        sub_title: Medical Doctor
+        quote: >
+          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Universidad de La Frontera, Temuco, Chile
+        caption: 2001 - 2005
+        sub_title: Bachelor Degree in Medicine
+        quote: >
+          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
         title: Harvard University
         caption: 2010 - 2012
         sub_title: Master of Medical Sciencies in Biomedical Informatics
+        quote: >
+          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Universidad del Desarrollo, Santiago, Chile
+        caption: 2014 - 2017
+        sub_title: Clinical Radiology Residency
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
