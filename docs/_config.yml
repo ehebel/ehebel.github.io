@@ -120,7 +120,6 @@ content:
         description: | # this will include new lines to allow paragraphs
 
       - layout: left
-        border: weak
         title: Universidad del Desarrollo
         sub_title: Santiago, Chile
         caption: 2014 - 2017
