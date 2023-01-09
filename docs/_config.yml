@@ -99,6 +99,20 @@ content:
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
+  - title: Projects under current supervision
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      2022			Region wide Adverse Events Surveillance System – Clinical Quality Department
+      2021			Integrated Oncology Information System – Regional Cancer Surveillance Group
+      2020 – Present		Deployment & maintenance of HL7 FHIR Clinical Data Repository (Roche Diagnostics)
+
+  - title: Skills
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      **Computing:** STATA; Transact-SQL; Project REDCap; OracleBI; R; Pentaho Report Designer;Pentaho Data Integration; JasperSoft, iReport; Python.
+
+      **Languages:** Fluent in Spanish, English and German.
+    
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
