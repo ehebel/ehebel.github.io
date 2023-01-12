@@ -57,7 +57,7 @@ content:
     content:
       - layout: top-middle
         title: National Shared Health Record project
-        link: github.com/sproogen
+        # link: github.com/sproogen
         # link_text: Project Website
         additional_links:
           - title:  minsal_cl/interoperabilidad
@@ -71,19 +71,47 @@ content:
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Araucanía Sur Health Service
-        link: www.araucaniasur.cl
-        # link_text: boringcompany.com
-        sub_title: Digital Health Department Chief
-        caption: July 2020 - Present
-        quote: >
-          Bringing the Digital Transformation to Healthcare, one step at a time.
-        description: | # this will include new lines to allow paragraphs
-          The seemingly infinite path to healthcare digitalization.
+  - title: Professional Experience # Title for the section
+    layout: text # Type of content section (list/text)
+    content: |
+      2020 – Present&emsp;Chief Medical Information Officer, Department of Digital Health, Araucaria Sur Health Service, Temuco, Chile. 
+      
+      2017 – Present&emsp;Clinical Radiologist, Clinica Alemana Temuco, Temuco, Chile
+      
+      2020 – Present&emsp;	Professor “Course: Introduction to Health Information Systems for clinicians and decision makers.” Center for Information Systems in Healthcare, CENS, Santiago, Chile.
+      
+      2020 – Present&emsp;	Professor “Diploma: Clinical Informatics” School of Medicine, Pontificia Universidad Católica de Chile, Santiago, Chile
+      
+      2017 – 2020&emsp;Senior Health Informatics Advisor, Araucania Sur Health Service, Temuco, Chile.
+      
+      2014 – 2017&emsp;Radiology resident, Clinica Alemana Santiago, Santiago, Chile
+      
+      2012 – 2014 &emsp;	Senior Clinical Informatician, Ministry of Health. Santiago, Chile.
+      
+      2012 – 2016 &emsp;	Professor of “Hospital Information Systems” – Medical Informatics Master’s Program – Universidad de Chile, School of Medicina & School of Physics and Mathematics; Heidelberg University & Heidelberg Center for Latin America
+      
+      2010 – 2012 &emsp;	Research Fellow, Clinical Informatics Research & Development, Partners Healthcare, Boston, MA.
+      
+      2011 – 2013 &emsp;	Scientific reviewer for: 
+	    -	Journal of Journal of the American Medical Informatics Association (JAMIA)
+	    - International Journal of Medical Informatics (IJMI)
+	    - Applied Clinical Informatics (ACI)
+      2008 – 2009 &emsp; Health Informatics Advisor, developing and implementing solutions for the public health sector in a regional scale. 
+	    - Emergency Care Physician, Vilcún Hospital, Araucania Sur Health Service, Temuco, Chile.
+      2008 &emsp;General Physician, Fresia Hospital, Reloncaví Health Service, Fresia, Chile.
+      2007 - 2008	&emsp;Epidemiology Analyst, Araucanía Sur Health Service, Temuco, Chile.
+
+    # content:
+    #   - layout: left
+    #     title: Araucanía Sur Health Service
+    #     link: www.araucaniasur.cl
+    #     # link_text: boringcompany.com
+    #     sub_title: Digital Health Department Chief
+    #     caption: July 2020 - Present
+    #     quote: >
+    #       Bringing the Digital Transformation to Healthcare, one step at a time.
+    #     description: | # this will include new lines to allow paragraphs
+    #       The seemingly infinite path to healthcare digitalization.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
