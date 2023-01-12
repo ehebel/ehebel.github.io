@@ -73,48 +73,17 @@ content:
 
   - title: Professional Experience # Title for the section
     layout: text # Type of content section (list/text)
-    content: |
-      2020 – Present&emsp;Chief Medical Information Officer, Department of Digital Health, Araucaria Sur Health Service, Temuco, Chile. 
-      
-      2017 – Present&emsp;Clinical Radiologist, Clinica Alemana Temuco, Temuco, Chile
-      
-      2020 – Present&emsp; Professor “Course: Introduction to Health Information Systems for clinicians and decision makers.” Center for Information Systems in Healthcare, CENS, Santiago, Chile.
-      
-      2020 – Present&emsp; Professor “Diploma: Clinical Informatics” School of Medicine, Pontificia Universidad Católica de Chile, Santiago, Chile
-      
-      2017 – 2020&emsp;Senior Health Informatics Advisor, Araucania Sur Health Service, Temuco, Chile.
-      
-      2014 – 2017&emsp;Radiology resident, Clinica Alemana Santiago, Santiago, Chile
-      
-      2012 – 2014 &emsp; Senior Clinical Informatician, Ministry of Health. Santiago, Chile.
-      
-      2012 – 2016 &emsp; Professor of “Hospital Information Systems” – Medical Informatics Master’s Program – Universidad de Chile, School of Medicina & School of Physics and Mathematics; Heidelberg University & Heidelberg Center for Latin America
-      
-      2010 – 2012 &emsp; Research Fellow, Clinical Informatics Research & Development, Partners Healthcare, Boston, MA.
-      
-      2011 – 2013 &emsp; Scientific reviewer for: 
-     - Journal of Journal of the American Medical Informatics Association (JAMIA)
-     - International Journal of Medical Informatics (IJMI)
-     - Applied Clinical Informatics (ACI)
-
-      2008 – 2009 &emsp; Health Informatics Advisor, developing and implementing solutions for the public health sector in a regional scale. 
-     - Emergency Care Physician, Vilcún Hospital, Araucania Sur Health Service, Temuco, Chile.
-      
-      2008 &emsp;General Physician, Fresia Hospital, Reloncaví Health Service, Fresia, Chile.
-      
-      2007 - 2008 &emsp;Epidemiology Analyst, Araucanía Sur Health Service, Temuco, Chile.
-
-    # content:
-    #   - layout: left
-    #     title: Araucanía Sur Health Service
-    #     link: www.araucaniasur.cl
-    #     # link_text: boringcompany.com
-    #     sub_title: Digital Health Department Chief
-    #     caption: July 2020 - Present
-    #     quote: >
-    #       Bringing the Digital Transformation to Healthcare, one step at a time.
-    #     description: | # this will include new lines to allow paragraphs
-    #       The seemingly infinite path to healthcare digitalization.
+    content:
+      - layout: left
+        title: Araucanía Sur Health Service
+        link: www.araucaniasur.cl
+        # link_text: boringcompany.com
+        sub_title: Digital Health Department Chief
+        caption: July 2020 - Present
+        quote: >
+          Bringing the Digital Transformation to Healthcare, one step at a time.
+        description: | # this will include new lines to allow paragraphs
+          The seemingly infinite path to healthcare digitalization.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -161,6 +130,35 @@ content:
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
+  - title: Professional experience
+    layout: text
+    content: |
+      2020 – Present&emsp;Chief Medical Information Officer, Department of Digital Health, Araucaria Sur Health Service, Temuco, Chile. 
+      
+      2017 – Present&emsp;Clinical Radiologist, Clinica Alemana Temuco, Temuco, Chile
+      
+      2020 – Present&emsp; Professor “Course: Introduction to Health Information Systems for clinicians and decision makers.” Center for Information Systems in Healthcare, CENS, Santiago, Chile.
+      
+      2020 – Present&emsp; Professor “Diploma: Clinical Informatics” School of Medicine, Pontificia Universidad Católica de Chile, Santiago, Chile
+      
+      2017 – 2020&emsp;Senior Health Informatics Advisor, Araucania Sur Health Service, Temuco, Chile.
+      
+      2014 – 2017&emsp;Radiology resident, Clinica Alemana Santiago, Santiago, Chile
+      
+      2012 – 2014 &emsp; Senior Clinical Informatician, Ministry of Health. Santiago, Chile.
+      
+      2012 – 2016 &emsp; Professor of “Hospital Information Systems” – Medical Informatics Master’s Program – Universidad de Chile, School of Medicina & School of Physics and Mathematics; Heidelberg University & Heidelberg Center for Latin America
+      
+      2010 – 2012 &emsp; Research Fellow, Clinical Informatics Research & Development, Partners Healthcare, Boston, MA.
+      
+      2011 – 2013 &emsp; Scientific reviewer for: 
+     
+      2008 – 2009 &emsp; Health Informatics Advisor, developing and implementing solutions for the public health sector in a regional scale. 
+     
+      2008 &emsp;General Physician, Fresia Hospital, Reloncaví Health Service, Fresia, Chile.
+      
+      2007 - 2008 &emsp;Epidemiology Analyst, Araucanía Sur Health Service, Temuco, Chile.
 
   - title: Projects under current supervision
     layout: text
