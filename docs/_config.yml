@@ -96,18 +96,8 @@ content:
         sub_title: Medical Doctor
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-
-
-      - layout: left
-        border: weak
-        title: Universidad de La Frontera
-        sub_title: Temuco, Chile
-        caption: 2001 - 2005
-        sub_title: Bachelor Degree in Medicine
-        # quote: >
-          # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
+        description: | # this will include new lines to allow paragraph
+          During my medical training I spent most of my spare time doing epidemiology and biostatistics.
 
       - layout: left
         border: weak
@@ -118,7 +108,7 @@ content:
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-                    
+          During my time in Boston, the experience of working for the Clinical Informatics Research & Development Laboratory at Partners Healthcare, helped me understand the use and constrainsts on the use of Electronic Heath Record and Clinical Desicion Support Systems.
 
       - layout: left
         title: Universidad del Desarrollo
@@ -128,6 +118,7 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
+          The clinical training in Radiology helped me to understand closelly the needs and gaps experienced by healthcare practitioners on their daily work with health information systems.
 
 
   - title: Professional experience
