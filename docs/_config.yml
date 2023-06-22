@@ -51,25 +51,25 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Esteban and I'm a clinical radiologist and biomedical informatician.
   My objective is to use my clinical imaging and informatics expertise developing health technologies to improve care for poor, urban and rural, communities at the local, regional and national level by supporting public health practice and policymaking.
 
- content:
-#   - title: Current projects under supervision # Title for the section
-#     layout: list # Type of content section (list/text)
-#     content:
-#       - layout: top-middle
-#         title: National Shared Health Record project
-#         # link: github.com/sproogen
-#         # link_text: Project Website
-#         additional_links:
-#           - title:  minsal_cl/interoperabilidad
-#             icon: fab fa-github
-#             url: github.com/minsal_cl
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-#        quote: >
-#          This project aims to become the Central Clinical Data Repository for the Chilean Healthcare System.
-        #description: | # this will include new lines to allow paragraphs
-          # I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+content:
+  - title: Current projects under supervision # Title for the section
+    # layout: list # Type of content section (list/text)
+    # content:
+    #   - layout: top-middle
+    #     title: National Shared Health Record project
+    #     # link: github.com/sproogen
+    #     # link_text: Project Website
+    #     additional_links:
+    #       - title:  minsal_cl/interoperabilidad
+    #         icon: fab fa-github
+    #         url: github.com/minsal_cl
+    #       # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+    #       #   icon: fab fa-github
+    #       #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+    #     quote: >
+    #       This project aims to become the Central Clinical Data Repository for the Chilean Healthcare System.
+    #     #description: | # this will include new lines to allow paragraphs
+    #       # I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
   - title: Professional Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -82,7 +82,7 @@ about_content: | # this will include new lines to allow paragraphs
         quote: >
           Bringing the national digital health exchange infrastructure one step closer to reality.
         description: | # this will include new lines to allow paragraphs
-          I have been honered to be part of the team working on the definition of structure and implementation of the national health information exchange system.
+          I have been honered to be part of the team working on the definition of structure and implementation of the national health information exchange.
 
       - layout: left
         title: Araucanía Sur Health Service
