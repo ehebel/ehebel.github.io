@@ -51,7 +51,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Esteban and I'm a clinical radiologist and biomedical informatician.
   My objective is to use my clinical imaging and informatics expertise developing health technologies to improve care for poor, urban and rural, communities at the local, regional and national level by supporting public health practice and policymaking.
 
-# content:
+ content:
 #   - title: Current projects under supervision # Title for the section
 #     layout: list # Type of content section (list/text)
 #     content:
