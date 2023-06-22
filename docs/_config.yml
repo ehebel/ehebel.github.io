@@ -75,11 +75,21 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Chilean Ministry of Health
+        link: www.minsal.cl
+        sub_title: Senior Interoperability Advisor
+        caption: January 2023 - Present
+        quote: >
+          Bringing the national digital health exchange infrastructure one step closer to reality.
+        description: | # this will include new lines to allow paragraphs
+          I have been honered to be part of the team working on the definition of structure and implementation of the national health information exchange system.
+
+      - layout: left
         title: Araucanía Sur Health Service
         link: www.araucaniasur.cl
         # link_text: boringcompany.com
         sub_title: Digital Health Department Chief
-        caption: July 2020 - Present
+        caption: July 2020 - 2022
         quote: >
           Bringing the Digital Transformation to Healthcare, one step at a time.
         description: | # this will include new lines to allow paragraphs
