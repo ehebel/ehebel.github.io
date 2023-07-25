@@ -49,7 +49,7 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Esteban and I'm a clinical radiologist and biomedical informatician.
-  My objective is to use my clinical imaging and informatics expertise developing health technologies to improve care for poor, urban and rural, communities at the local, regional and national level by supporting public health practice and policymaking.
+  My objective is to use my clinical imaging and biomedical informatics expertise developing health technologies to improve care for poor, urban and rural, communities at the local, regional and national level by supporting public health practice and policymaking.
 
 content:
   - title: Professional Experience # Title for the section
@@ -117,7 +117,7 @@ content:
   - title: Professional experience
     layout: text
     content: |
-      2023 – Present &emsp; Senior Interoperability, Department of Information Technology & Communication, Ministry of Health. Santiago, Chile.
+      2023 – Present &emsp; Senior Interoperability Advisor, Department of Information Technology & Communication, Ministry of Health. Santiago, Chile.
       
       2017 – Present &emsp; Clinical Radiologist, Clinica Alemana Temuco, Temuco, Chile.
       
